@@ -1,0 +1,4 @@
+.venv/
+datatset/
+.ipynb_checkpoints/
+.env
